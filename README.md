@@ -29,11 +29,9 @@ Start the application:
 ```bash
 streamlit run app.py
 ```
-
 ## Screenshot
 
-
-
+![Personal Profile App](screenshots/app.png)
 ## Author
 
 Sushma Mundlamuri
