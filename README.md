@@ -31,7 +31,4 @@ streamlit run app.py
 ```
 ## Screenshot
 
-![Personal Profile App](screenshots/app.png)
-## Author
-
-Sushma Mundlamuri
+![user Page](screenshot/app.png)
